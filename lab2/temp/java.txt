@@ -1,0 +1,16 @@
+50941/java-ch18-menu
+50289/java-ch15-queue
+49858/java-ch13-check-the-char-string
+49324/javach11
+48655/java-ch9-show-the-system-clock
+48129/java-ch8-zip-to-bar-code--bar-code-to-zip
+48044/java-ch7-2dimensional-array
+47886/java-ch6-fibonacci-number-calculator
+47782/java-ch5-circle
+47764/java-converter
+46788/java-ch4-floatingpoint-round-off-error-example
+46740/java-olympic-rings
+46565/java-cash-register-tester
+46491/java-ch2-rectangle
+46475/java-ch1-introduction-java
+46299/java-rectangle-on-a-window
